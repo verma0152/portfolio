@@ -1,0 +1,84 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+header {
+    text-align: center;
+    padding: 30px 20px;
+    background-color: #e9e9e9;
+}
+
+.profile-img {
+    width: 180px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #004085;
+    margin-bottom: 5px;
+}
+
+p {
+    color: #555;
+}
+
+nav.top-nav, nav.bottom-nav {
+    display: flex;
+    justify-content: center;
+    background-color: #004085;
+    padding: 15px 0;
+    flex-wrap: wrap; /* Allows navigation to wrap on smaller screens */
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+nav a:hover {
+    background-color: #0056b3;
+}
+
+main {
+    padding: 30px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 40px;
+    background-color: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #004085;
+    border-bottom: 2px solid #004085;
+    padding-bottom: 15px;
+    margin-bottom: 25px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    nav.top-nav, nav.bottom-nav {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+footer {
+    background-color: #e9e9e9;
+    padding: 20px 0;
+    text-align: center;
+}
