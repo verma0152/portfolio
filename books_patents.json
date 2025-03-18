@@ -1,0 +1,42 @@
+[
+  {
+    "type": "book",
+    "title": "Linux Programming",
+    "authors": "Amit Verma & Sushil Bansal",
+    "isbn": "978-93-92899-40-9",
+    "publisher": "Seva books Darya Ganj New Delhi"
+  },
+  {
+    "type": "book",
+    "title": "Object-Oriented Programming in C++",
+    "authors": "Amit Verma & Naveen Tyagi",
+    "isbn": "978-93-92894-31-2",
+    "publisher": "Momentum Publisher & Distributor, New Delhi"
+  },
+  {
+    "type": "book chapter",
+    "title": "Conceptual Framework for Energy Management in Smart Building using ICT coupled image processing technique & IOT",
+    "authors": "Amit Verma",
+    "book": "Pervasive Computing"
+  },
+  {
+    "type": "patent",
+    "title": "IOT with artificial Intelligence based data authentication from end to end to cyber security of configuration using deep learning techniques",
+    "publication_number": "202311035772",
+    "publication_date": "30th June 2023"
+  },
+  {
+    "type": "patent",
+    "title": "Telescopic Wi-Fi Dish Antenna",
+    "status": "granted",
+    "design_number": "402455-001",
+    "date": "19/12/2023"
+  },
+  {
+    "type": "patent",
+    "title": "AI-Assisted Diagnostic Device for Early Detection Of Tumours in MRI Scans",
+    "status": "granted",
+    "design_number": "410453-001",
+    "date": "13/03/2024"
+  }
+]

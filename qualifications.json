@@ -1,0 +1,32 @@
+[
+  {
+    "degree": "Phd (CSE)",
+    "university": "PTU, Jalandhar",
+    "year": "October-2023",
+    "percentage_cgpa": "--"
+  },
+  {
+    "degree": "M.Tech (CSE)",
+    "university": "KUK, Haryana, (N.C.C.E Israna)",
+    "year": "July. 2010",
+    "percentage_cgpa": "8.0 CGPA"
+  },
+  {
+    "degree": "B.Tech(CSE)",
+    "university": "KUK,Haryana (Aug, 2002 (J.I.E.T, Jind)",
+    "year": "June 2002",
+    "percentage_cgpa": "70.5"
+  },
+  {
+    "degree": "Diploma (CSE)",
+    "university": "S.B.T.E,Haryana , (V.T.I, Rohtak)",
+    "year": "March, 1998",
+    "percentage_cgpa": "69.5"
+  },
+  {
+    "degree": "10th",
+    "university": "H.B.S.E. Haryana",
+    "year": "June, 1994",
+    "percentage_cgpa": "78.5"
+  }
+]

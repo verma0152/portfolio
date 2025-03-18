@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Assistant Professor, CSE Department",
+    "company": "Maharaja Agrasen University, Baddi",
+    "start_date": "August 2016",
+    "end_date": "Present",
+    "responsibilities": [
+      "Teaching and mentoring students in various subjects.",
+      "Leading research projects in computer science and engineering.",
+      "Coordinating NAAC Criteria-3 and departmental activities."
+    ]
+  },
+  {
+    "title": "Assistant Professor and Head of CSE Department",
+    "company": "Samalkha Group of Institutions, Panipat",
+    "start_date": "July 2013",
+    "end_date": "August 2016",
+    "responsibilities": [
+      "Led the CSE department, managing academic and administrative tasks.",
+      "Developed and implemented curriculum and research initiatives."
+    ]
+  },
+  {
+    "title": "Assistant Professor and Principal of Indus Polytechnic College",
+    "company": "Indus Group of Institutions, Jind",
+    "start_date": "August 2012",
+    "end_date": "June 2013",
+    "responsibilities": [
+      "Managed academic and administrative responsibilities.",
+      "Taught undergraduate courses in computer science."
+    ]
+  },
+  {
+    "title": "Assistant Professor",
+    "company": "APIIT SD INDIA, Panipat",
+    "start_date": "January 2012",
+    "end_date": "July 2012",
+    "responsibilities": [
+      "Taught courses affiliated with Staffordshire University, UK."
+    ]
+  },
+  {
+    "title": "Project Associate",
+    "company": "Indian Institute of Technology (IIT), Delhi",
+    "start_date": "August 2007",
+    "end_date": "January 2008",
+    "responsibilities": [
+      "Worked on the \"Design and Development of Malafide Intention-based Privacy Violation Detection System\" project."
+    ]
+  },
+  {
+    "title": "Lecturer, CSE/IT Department",
+    "company": "Institute of Engineering & Emerging Technology, Baddi",
+    "start_date": "August 2005",
+    "end_date": "August 2007",
+    "responsibilities": [
+      "Taught various subjects and guided students in their projects."
+    ]
+  },
+  {
+    "title": "Lecturer, CSE Department",
+    "company": "Jind Institute of Engineering & Technology, Jind",
+    "start_date": "July 2002",
+    "end_date": "August 2005 & February 2008 – January 2012",
+    "responsibilities": [
+      "Taught operating systems and computer networks, and guided student projects."
+    ]
+  }
+]
