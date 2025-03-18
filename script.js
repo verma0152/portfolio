@@ -1,6 +1,6 @@
 async function fetchData(fileName, elementId) {
     try {
-        const response = await fetch(`data/${fileName}.json`);
+        const response = await fetch(`main/${fileName}.json`);
         const data = await response.json();
         const contentDiv = document.getElementById(`${elementId}-content`);
         contentDiv.innerHTML = renderData(data, fileName);
@@ -33,7 +33,7 @@ fetchData("skills", "skills");
 fetchData("about", "about");
 
 // Contact details in footer
-fetch("data/about.json")
+fetch("main/about.json")
     .then(response => response.json())
     .then(aboutData => {
         const contact = aboutData[0];
